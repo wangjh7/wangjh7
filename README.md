@@ -22,7 +22,6 @@
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
 </a>
-<br>
 
 #### 📖 正在学习(learning)
 <a href="https://reactjs.org/" target="_blank">
@@ -32,5 +31,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack"/>
 </a>
 <a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="40" height="40" alt="Next.js/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="40" height="40" alt="Next.js"/>
 </a>
+                                                                                                                        
+#### 🧠 准备学习(next to learn)
+<a href="https://www.rust-lang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust"/>
+</a>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/>
+</a>        
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+</a>        
+                                                                                                                        
+                                                                                                                        
