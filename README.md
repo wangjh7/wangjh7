@@ -1,0 +1,7 @@
+- 👋hi, 我是Johann, 两年经验的前端程序员
+- 👀对前端相关的技术感兴趣
+- ⌨️现在在学习React.js的设计和实现，进阶前端知识还有算法和数据结构
+- 👋hi, I'm Johann, a front end developer with 2 years experience
+- 👀intersted in web development related technology
+- ⌨️currently diving into the design and relalization of React.js, advanced front end knowledge and algorithm
+-------
