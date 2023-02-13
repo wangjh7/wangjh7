@@ -43,6 +43,7 @@
 </a>        
 <a href="https://flutter.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-</a>        
-                                                                                                                        
-                                                                                                                        
+</a>      
+<a href="https://www.vim.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/>
+</a>   
